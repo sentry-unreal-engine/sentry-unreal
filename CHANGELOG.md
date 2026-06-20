@@ -1,5 +1,13 @@
 # Changelog
 
+## Unreleased
+
+### Dependencies
+
+- Bump Java SDK (Android) from v8.17.0 to v8.44.1 ([#154](https://github.com/sentry-unreal-engine/sentry-unreal/pull/154))
+  - [changelog](https://github.com/getsentry/sentry-java/blob/main/CHANGELOG.md#8441)
+  - [diff](https://github.com/getsentry/sentry-java/compare/8.17.0...8.44.1)
+
 ## 1.0.0-beta.7
 
 ### Fixes
